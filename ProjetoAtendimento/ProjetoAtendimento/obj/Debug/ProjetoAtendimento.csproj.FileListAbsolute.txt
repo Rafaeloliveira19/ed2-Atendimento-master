@@ -1,0 +1,23 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe.config
+E:\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe.config
+E:\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe
+E:\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.pdb
+E:\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csprojResolveAssemblyReference.cache
+E:\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Form1.resources
+E:\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Properties.Resources.resources
+E:\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.Cache
+E:\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.exe
+E:\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.pdb
+G:\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe.config
+G:\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.exe
+G:\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.pdb
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe.config
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.pdb
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Form1.resources
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Properties.Resources.resources
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.exe
+C:\Users\Sherlock\Desktop\Rafael\ed2-Atendimento-master\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.pdb
